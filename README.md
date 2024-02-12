@@ -30,7 +30,6 @@
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IremSever&show_icons=true&locale=en&layout=compact" alt="IremSever" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en" alt="IremSever" /></p>
