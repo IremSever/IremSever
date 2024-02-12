@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/IremSever">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="IremSever's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="IremSever's GitHub Stats" />
 </a>
 
 <br/>
