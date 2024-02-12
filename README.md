@@ -1,17 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Irem </h1>
 <h3 align="center"> Software Developer Assistant Specialist </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&color=0e75b6&style=flat" alt="IremSever" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&color=0e75b6&style=flat" alt="IremSever" /> </p>
 
 - 📫 How to reach me **iremsever_outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 
 <a href="https://linkedin.com/in/irem-sever-092469166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-sever-092469166" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
