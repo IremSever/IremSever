@@ -3,8 +3,6 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&style=flat" alt="IremSever" />
-    <a href="https://linkedin.com/in/irem-sever-092469166/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-sever-092469166"/>
 </p>
 <p align="center">- 📫 How to reach me <strong>iremsever_@outlook.com</strong></p>
 
