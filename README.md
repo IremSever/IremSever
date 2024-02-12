@@ -23,22 +23,20 @@
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/></a>
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" style="color: blue;">
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </a>
 
 </p>
 
-<p align="center">
-    <a href="https://github.com/IremSever">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IremSever&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="IremSever's Top Languages" />
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/IremSever" style="margin: 0.5rem;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IremSever&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="IremSever's Top Languages" />
     </a>
-</p>
+    <a href="https://github.com/IremSever" style="margin: 0.5rem;">
+        <img src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="IremSever's GitHub Stats" />
+    </a>
+</div>
 
-<p align="center">
-    <a href="https://github.com/IremSever">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="IremSever's GitHub Stats" />
-    </a>
-</p>
 
 <br/>
