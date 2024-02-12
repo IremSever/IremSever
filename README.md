@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Irem Sever</h1>
-<h3 align="center"> Software Developer Assistant Specialist Instructor</h3>
+[![Irem's GitHub Banner](./assets/GitHubHeader.png)](https://IremSever.dev)
+
+<h1 align="center">Hey there 👋, I'm Irem </h1>
+<h3 align="center"> Software Developer Assistant Specialist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&color=0e75b6&style=flat" alt="IremSever" /> </p>
 
