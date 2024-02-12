@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Irem </h1>
 <h3 align="center"> Software Developer Assistant Specialist </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&color=0e75b6&style=flat" alt="IremSever" /> </p>
-
-- 📫 How to reach me **iremsever_outlook.com**
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&color=0e75b6&style=flat" alt="IremSever" />
+</p>
 
 <p align="center">
     <a href="https://linkedin.com/in/irem-sever-092469166/" target="blank">
