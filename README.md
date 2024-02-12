@@ -30,13 +30,16 @@
 </p>
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/IremSever" style="margin: 0.5rem;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IremSever&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="IremSever's Top Languages" />
-    </a>
-    <a href="https://github.com/IremSever" style="margin: 0.5rem;">
-        <img src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="IremSever's GitHub Stats" />
-    </a>
+    <div style="margin: 0.5rem;">
+        <a href="https://github.com/IremSever">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IremSever&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="IremSever's Top Languages" />
+        </a>
+    </div>
+    <div style="margin: 0.5rem;">
+        <a href="https://github.com/IremSever">
+            <img src="https://github-readme-stats.vercel.app/api?username=IremSever&show_icons=true&locale=en&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="IremSever's GitHub Stats" />
+        </a>
+    </div>
 </div>
-
 
 <br/>
