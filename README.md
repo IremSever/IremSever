@@ -5,12 +5,11 @@
 
 - 📫 How to reach me **iremsever_outlook.com**
 
-<h3 align="center">Connect with me:</h3>
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
+    <a href="https://linkedin.com/in/irem-sever-092469166/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-sever-092469166" height="30" width="40" />
+    </a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
