@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm İrem </h1>
-<h3 align="center"> Software Developer Assistant Specialist </h3>
+<h3 align="center"> Junior iOS Developer </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=IremSever&label=Profile%20views&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&style=flat" alt="IremSever" />
