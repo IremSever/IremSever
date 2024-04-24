@@ -8,15 +8,18 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/iremsever/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-sever-092469166" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/24639915/%c4%b0rem-sever" target="_blank">
         <img src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico" alt="Stack Overflow" height="30" width="30" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@iremsever_" target="_blank">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/7/75/Medium.com_logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW_DKLn4ktWh5HVFuJYA6U5BhO8zXZQUbNh_CsKmfIzg&s)" alt="Medium" height="30" width="30" />
+        <img src="https://miro.medium.com/max/1168/1*AAc_kwt6KRH3XvMn23-iLg.png" alt="Medium" height="30" width="30" />
     </a>
 </p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
