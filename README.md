@@ -16,9 +16,10 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://medium.com/@iremsever_" target="_blank">
-        <img src="https://miro.medium.com/max/1168/1*AAc_kwt6KRH3XvMn23-iLg.png" alt="Medium" height="30" width="30" />
+        <img src="https://miro.medium.com/fit/c/96/96/1*AAc_kwt6KRH3XvMn23-iLg.png" alt="Medium" height="30" width="30" />
     </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
