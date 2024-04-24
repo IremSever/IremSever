@@ -16,7 +16,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://medium.com/@iremsever_" target="_blank">
-        <img src="https://miro.medium.com/fit/c/96/96/1*AAc_kwt6KRH3XvMn23-iLg.png" alt="Medium" height="30" width="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Medium.com_logo.svg" alt="Medium" height="30" width="30" />
     </a>
 </p>
 
