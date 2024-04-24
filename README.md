@@ -10,12 +10,13 @@
     <a href="https://www.linkedin.com/in/iremsever/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-sever-092469166" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/24639915/%c4%b0rem-sever" target="_blank">
-        Stack Overflow
+        <img src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico" alt="Stack Overflow" height="30" width="30" />
     </a>
     &nbsp;&nbsp;
     <a href="https://medium.com/@iremsever_" target="_blank">
-        Medium
+        <img src="https://miro.medium.com/max/1168/1*AAc_kwt6KRH3XvMn23-iLg.png" alt="Medium" height="30" width="30" />
     </a>
 </p>
 
