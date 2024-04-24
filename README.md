@@ -7,8 +7,15 @@
 <p align="center">📫 How to reach me <strong>iremsever_@outlook.com</strong></p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/irem-sever-092469166/" target="blank">
+    <a href="https://www.linkedin.com/in/iremsever/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem-sever-092469166" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/24639915/%c4%b0rem-sever" target="_blank">
+        Stack Overflow
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@iremsever_" target="_blank">
+        Medium
     </a>
 </p>
 
