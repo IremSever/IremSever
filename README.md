@@ -7,10 +7,11 @@
 <p align="center">📫 How to reach me <strong>iremsever_@outlook.com</strong></p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/iremsever/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
+<a href="https://www.linkedin.com/in/iremsever/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="iremsever" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/24639915/%c4%b0rem-sever" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="24639915" height="45" width="45" /></a>
+<a href="https://medium.com/@iremsever_" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@iremsever_" height="30" width="40" /></a>"30" width="26" /></a>
 </p>
+
 
 
 
