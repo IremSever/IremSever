@@ -28,11 +28,4 @@
         <img src="https://skillicons.dev/icons?i=swift,kotlin,dart,cs,py,xcode,firebase,aws,azure,git,figma,ps&perline=6" alt="Irem's Skills" />
     </a>
 </p>
-
-<!-- GitHub Stats -->
-<p align="center">
-    <a href="https://github.com/IremSever">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IremSever&layout=compact&title_color=ffffff&text_color=c9cacc&bg_color=1A2B34&hide_border=true" alt="IremSever's Top Languages" />
-    </a>
-</p>
 <br/>
